@@ -21,6 +21,12 @@ h1{
     border-radius: 20px;
 }
 
+span{
+    background-color: #198754;
+    font-weight: bolder;
+    color:#fff;
+}
+
 
 #cuerpoApp {
     border-radius: 44px;
