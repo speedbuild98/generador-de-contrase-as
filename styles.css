@@ -17,11 +17,10 @@ p {
 
 h1{
     width: 100%;
+    font-weight: 700;
+    border-radius: 20px;
 }
 
-.badge {
-    font-size: 1rem;
-}
 
 #cuerpoApp {
     border-radius: 44px;
