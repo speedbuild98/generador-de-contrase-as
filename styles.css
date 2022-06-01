@@ -45,6 +45,10 @@ h1{
 #btnCopy {
     margin: 0 auto;
 }
+.containerContraseña{
+    display: flex;
+    justify-content: center;
+}
 
 #contraseñaGenerada {
     animation: wiggle 4s ease-in-out;
